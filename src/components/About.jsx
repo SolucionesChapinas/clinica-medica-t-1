@@ -6,7 +6,7 @@ const About = () => {
             <div className="container">
                 <div className="about-content">
                     <div className="about-image">
-                        <img src="/images/SobreNosotros/clinica-medica.avif?height=600&width=500" alt="Instalaciones de la clínica" />
+                        <img src="/clinica-medica-t-1/images/SobreNosotros/clinica-medica.avif?height=600&width=500" alt="Instalaciones de la clínica" />
                         <div className="experience-badge">
                             <span className="years">15</span>
                             <span className="text">Años de excelencia médica</span>
